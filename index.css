@@ -3,6 +3,14 @@ body{
     background: white;
     font-family: 'Share Tech', sans-serif;
 }
+.navbar-sticky{
+    position: sticky !important;
+    top: 0px;
+    z-index: 99999;
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    backdrop-filter: blur(8px);
+    transition: 0.5s;
+}
 .navbar.bg-light{
     background-color: #E4F4F9 !important;
 }
@@ -40,6 +48,22 @@ body{
     height: 100%;
     /* object-fit: cover; */
 }
+.specialOfferTabs > .nav-item > .nav-link{
+    color: white !important;
+}
+.numCon{
+    background: #e24493;
+    background: linear-gradient(206deg, #e24493 40%, #774d90 60%);
+    background: -webkit-linear-gradient(206deg, #e24493 40%, #774d90 60%);
+    background: -moz-linear-gradient(206deg, #e24493 40%, #774d90 60%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.specialOfferTabs>.nav-item>.nav-link.active{
+    color: #e24493 !important;
+}
 .offerCardCon{
     background: #e24493;
     background: linear-gradient(206deg, #e24493 40%, #774d90 60%);
@@ -64,4 +88,19 @@ body{
     height: 180px;
     object-fit: cover;
     border-radius: 10px;
+}
+.footer{
+    border-top: 1px solid white;
+    height: 25vh;
+}
+.socialIconCon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.socialIconCon > a>i{
+    font-size: 50px;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
 }
