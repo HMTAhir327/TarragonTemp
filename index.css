@@ -56,10 +56,15 @@ body{
     background: linear-gradient(206deg, #e24493 40%, #774d90 60%);
     background: -webkit-linear-gradient(206deg, #e24493 40%, #774d90 60%);
     background: -moz-linear-gradient(206deg, #e24493 40%, #774d90 60%);
-    color: white;
     padding: 10px;
     border-radius: 5px;
+    color: white;
     font-size: 20px;
+}
+.numberHeader{
+    color: white;
+    font-size: 20px;
+    margin: 0;
 }
 .specialOfferTabs>.nav-item>.nav-link.active{
     color: #e24493 !important;
