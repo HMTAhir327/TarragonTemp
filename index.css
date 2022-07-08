@@ -62,9 +62,10 @@ body{
     font-size: 20px;
 }
 .numberHeader{
-    color: white;
-    font-size: 20px;
-    margin: 0;
+    color: white !important;
+    font-size: 20px !important;
+    text-decoration: none !important;
+    margin: 0 !important;
 }
 .specialOfferTabs>.nav-item>.nav-link.active{
     color: #e24493 !important;
