@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TarragonTemp/static/css/main.df6b6d38.css",
+    "main.js": "/TarragonTemp/static/js/main.7d6aa0f5.js",
+    "static/js/787.26c0a7d9.chunk.js": "/TarragonTemp/static/js/787.26c0a7d9.chunk.js",
+    "static/media/gingerVideo.mp4": "/TarragonTemp/static/media/gingerVideo.5ba5507ae88fdc2dcc71.mp4",
+    "static/media/mainP2.jpeg": "/TarragonTemp/static/media/mainP2.b4537f89a60c1d179a36.jpeg",
+    "static/media/mainP1.jpeg": "/TarragonTemp/static/media/mainP1.b031b6c38e52b5866a31.jpeg",
+    "index.html": "/TarragonTemp/index.html",
+    "static/media/playBtn.svg": "/TarragonTemp/static/media/playBtn.93dd6d0021ea38b48ca7.svg",
+    "main.df6b6d38.css.map": "/TarragonTemp/static/css/main.df6b6d38.css.map",
+    "main.7d6aa0f5.js.map": "/TarragonTemp/static/js/main.7d6aa0f5.js.map",
+    "787.26c0a7d9.chunk.js.map": "/TarragonTemp/static/js/787.26c0a7d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6b6d38.css",
+    "static/js/main.7d6aa0f5.js"
+  ]
+}
